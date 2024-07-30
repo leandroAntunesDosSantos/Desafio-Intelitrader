@@ -1,0 +1,6 @@
+C:\Users\leandro\Desktop\c-sharp\Desafio-Intelitrader\criptografia_navio\criptografia_navio\bin\Debug\criptografia_navio.exe
+C:\Users\leandro\Desktop\c-sharp\Desafio-Intelitrader\criptografia_navio\criptografia_navio\bin\Debug\criptografia_navio.pdb
+C:\Users\leandro\Desktop\c-sharp\Desafio-Intelitrader\criptografia_navio\criptografia_navio\obj\Debug\criptografia_navio.csproj.AssemblyReference.cache
+C:\Users\leandro\Desktop\c-sharp\Desafio-Intelitrader\criptografia_navio\criptografia_navio\obj\Debug\criptografia_navio.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\c-sharp\Desafio-Intelitrader\criptografia_navio\criptografia_navio\obj\Debug\criptografia_navio.exe
+C:\Users\leandro\Desktop\c-sharp\Desafio-Intelitrader\criptografia_navio\criptografia_navio\obj\Debug\criptografia_navio.pdb
